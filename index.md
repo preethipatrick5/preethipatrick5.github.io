@@ -1,11 +1,11 @@
 ## Portfolio
 
 ---
+# About me
+# Projects 
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Dissertation](/pages/disseration.md)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
