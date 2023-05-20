@@ -5,7 +5,7 @@
 # Projects 
 
 ---
-[Dissertation](/pages/disseration.md)
+[Dissertation](/pages/disseration)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
