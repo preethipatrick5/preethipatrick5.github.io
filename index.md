@@ -1,11 +1,13 @@
 ## Portfolio
 
 ---
-# About me
-# Projects 
+# Portfolio
+## About me
+## Projects 
 
 ---
-[Dissertation](/pages/disseration)
+[Dissertation](/pages/dissertation)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
