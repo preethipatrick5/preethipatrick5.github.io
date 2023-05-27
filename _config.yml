@@ -1,7 +1,8 @@
 title: Preethi Patrick # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist | Machine Learning | NLP | Big Data | Stream Processing | Docker | Python
+  <p align="justify">Data Scientist | Machine Learning | NLP | Big Data | Stream Processing | Docker | Python</p>
+  </br>
   <a href="https://www.linkedin.com/in/preethi-patrick-6803531b0/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
