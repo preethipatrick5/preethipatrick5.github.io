@@ -16,13 +16,17 @@ Hi, I am Preethi Patrick. My background is in Mathematics and Data Science. I ha
 ---
 ### [Sentiment Analyzer](/pages/sentiment_analyzer)
 
-The sentiment Analyzer was done as part of my internship. My role in the project revolved around improving the sentiment analyzer model the company had already deployed in their data pipeline. 
+<img src="/pages/images/sentiment_analyzer/sentiment_analyzer.jpg" alt="Logo" class="projectLogo"/>
 
 ---
 ### [Topic Modelling](/pages/topic_modelling)
 
+<img src="/pages/images/topic_modelling/topic_modelling.png" alt="Logo" class="projectLogo"/>
+
 ---
 ### [Customer Lifetime Value Prediction](/pages/clv)
+
+<img src="/pages/images/clv/clv.png" alt="Logo" class="projectLogo"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
