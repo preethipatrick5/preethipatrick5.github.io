@@ -11,7 +11,7 @@ Hi, I am Preethi Patrick. My background is in Mathematics and Data Science. I ha
 ---
 ### [Dissertation](/pages/dissertation)
 
-My dissertation involved trying to understand the Robustness of various machine learning models that are used for Deepfake Detection. I chose this topic, out of the several, as it seemed challenging and was addressing a very important topic of conversation. You can find more information about the project in this [page](/pages/dissertation).
+<img src="/pages/images/dissertation/deepfake_detection.jpg" alt="Logo" class="projectLogo"/>
 
 ---
 ### [Sentiment Analyzer](/pages/sentiment_analyzer)
