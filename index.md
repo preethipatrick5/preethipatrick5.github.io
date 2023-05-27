@@ -3,34 +3,25 @@
 ---
 # Portfolio
 ## About me
+
+Hi, I am Preethi Patrick. My background is in Mathematics and Data Science. I have always been fascinated by numbers and I used to give mathematics lessons to my juniors when I was in school eventually undertook an undergraduate program in mathematics in the form of BSc Mathematics from the University of Kerala. During my course, I realized programming is a key aspect for any academician. The paper in python really intruiged me and I started teaching myself more. The curiosity eventually landed me on an MCA degree where I learnt much more than just python, but python really did stay with me. Apart from the fact that it was the first language I learned, python really made sense to me and I found it a breeze to use it. Along with my MCA I was also introduced to the domain of Data Science, which seemed like the perfect area for me to focus given my background in both Mathematics and Computer Science. I was pulled to the world of machine learning in particular as it seemed really interesting field even back then(considering the recent developments like ChatGPT I am glad I chose right 😄). I have been exploring Data Science and Machine learning ever since and you can find some of the things I have done below.
+
 ## Projects 
 
 ---
-[Dissertation](/pages/dissertation)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Dissertation](/pages/dissertation)
+
+My dissertation involved trying to understand the Robustness of various machine learning models that are used for Deepfake Detection. I chose this topic, out of the several, as it seemed challenging and was addressing a very important topic of conversation. You can find more information about the project in this [page](/pages/dissertation).
+---
+### [Sentiment Analyzer](/pages/sentiment_analyzer)
+
+The sentiment Analyzer was done as part of my internship. My role in the project revolved around improving the sentiment analyzer model the company had already deployed in their data pipeline. 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Topic Modelling](/pages/topic_modelling)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+### [Customer Lifetime Value Prediction](/pages/clv)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
