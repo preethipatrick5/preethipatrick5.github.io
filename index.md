@@ -1,6 +1,3 @@
-## Portfolio
-
----
 # Portfolio
 ## About me
 
